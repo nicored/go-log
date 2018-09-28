@@ -9,7 +9,7 @@ import (
 
 	"net"
 
-	"github.com/sirupsen/logrus"
+	"github.com/Sirupsen/logrus"
 )
 
 type Logger struct {
